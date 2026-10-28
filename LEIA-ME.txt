@@ -1,0 +1,15 @@
+Projeto Amazon - Pedro Cabral
+
+Instale o Node.js. Na pasta do projeto, execute:
+
+npm install
+npm run dev
+
+Para gerar o site:
+
+npm run build
+
+Vue 3.5.42, Vite, JavaScript, HTML e CSS.
+Componentes em src/components. Estilos em src/assets/main.css.
+Carrinho e formulários demonstrativos.
+
